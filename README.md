@@ -6,14 +6,14 @@ Me chamo Murillo Carvalho, sou de Brasília e tenho mais de 25 anos de experiên
 Sou apaixonado por inovação, dados e inteligência artificial aplicada à experiência do usuário. Gosto de compartilhar conhecimento sobre gestão ágil, UX e IA e acredito que tecnologia é uma ponte entre propósito e resultado. ""[Perfil sobre Saúde e Filosofia](https://www.titok.com/omurillooo/)" onde falo sobre a área de saúde, nutrição, biomedicina, educação física, etc. E "[Perfil sobre Ciências e Tecnologia](https://www.tiktok.com/ti_it_/) " onde falo sobre ciências, tecnologia, I.A, Física e Astronomia.
 
 <p align="left">
-    <a href="https://https://www.youtube.com/@itsMurillo?sub_confirmation=1">
+    <a href="https://www.youtube.com/channel/UCZKD-rf76bIwPq3v_z3D3ew?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCZKD-rf76bIwPq3v_z3D3ew?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@itsMurillo">
+    <a href="https://www.youtube.com/channel/UCZKD-rf76bIwPq3v_z3D3ew">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
