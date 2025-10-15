@@ -1,5 +1,11 @@
 # 👨🏻‍💻 Murillo Edson
+**`Product, Project, and Process Manager, AI Researcher, and Software Engineer`**
 
+My name is Murillo Carvalho, I'm from Brasília, and I have over 25 years of experience in technology and management. I have a Master's degree in Computer Science from UnB and specialize in Digital Project and Product Management, with additional training in Communications, Software Engineering, Data Science, Industrial Mechatronics Engineering, and IT Governance, as well as in healthcare (Nutrition, Biomedicine, Physical Education), as well as Philosophy, Mathematics, Physics, Chemistry, and Literature. I currently work as a Product and Program Manager, leading multidisciplinary teams and digital transformation initiatives in public and private settings.
+
+I'm passionate about innovation, data, and artificial intelligence applied to user experience. I enjoy sharing knowledge about agile management, UX, and AI, and I believe that technology is a bridge between purpose and results. ""[Profile on Health and Philosophy](https://www.titok.com/omurillooo/)" where I talk about the area of ​​health, nutrition, biomedicine, physical education, etc. And "[Profile on Science and Technology](https://www.tiktok.com/ti_it_/)" where I talk about science, technology, AI, Physics and Astronomy.
+
+# 👨🏻‍💻 Murillo Edson
 **`Gerente de Produtos, projetos, processos, Pesquisador I.A e Engenheiro de Software`**
 
 Me chamo Murillo Carvalho, sou de Brasília e tenho mais de 25 anos de experiência em tecnologia e gestão. Sou mestrando em Ciência da Computação pela UnB e especialista em Gestão de Projetos e Produtos Digitais, com formações complementares em Comunicação, Engenharia de Software, Ciências de Dados, Engenharia Mecatrônica Industrial e Governança de TI e áreas da saúde (Nutrição, Biomedicina, Educação Física), além de (Filosofia, Matemática, Física, Química e Letras). Atualmente, atuo como Product e Program Manager, liderando equipes multidisciplinares e iniciativas de transformação digital em ambientes públicos e privados.
