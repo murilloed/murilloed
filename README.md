@@ -163,7 +163,7 @@ Sou apaixonado por inovação, dados e inteligência artificial aplicada à expe
     title="JQuery"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />" 
 />
 <img 
     align="left" 
