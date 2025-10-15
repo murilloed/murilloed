@@ -48,6 +48,15 @@ Sou apaixonado por inovação, dados e inteligência artificial aplicada à expe
         src="https://img.shields.io/badge/TikTok-@ti_it_-black?style=for-the-badge&logo=tiktok&logoColor=white"
     />
 </a>
+
+<a href="https://www.linkedin.com/in/murilloo/" target="_blank">
+    <img 
+        alt="LinkedIn - Murillo Carvalho" 
+        title="Conecte-se comigo no LinkedIn" 
+        src="https://img.shields.io/badge/LinkedIn-murilloo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
+
     <a href="https://github.com/murilloed?tab=followers">
         <img 
             alt="Seguidores" 
