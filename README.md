@@ -53,7 +53,7 @@ Sou apaixonado por inovação, dados e inteligência artificial aplicada à expe
     <img 
         alt="LinkedIn - Murillo Carvalho" 
         title="Conecte-se comigo no LinkedIn" 
-        src="https://img.shields.io/badge/LinkedIn-murilloo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        src="https://img.shields.io/badge/LinkedIn-Murillo%20Carvalho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582"
     />
 </a>
 
