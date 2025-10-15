@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Murillo Edson
+# 👨🏻‍💻 Murillo Carvalho
 **`Product, Project, and Process Manager, AI Researcher, and Software Engineer`**
 
 My name is Murillo Carvalho, I'm from Brasília, and I have over 25 years of experience in technology and management. I'm a Master's student in Computer Science at UnB and specialize in A.I, Digital Project and Product Management, with additional training in Communications, Software Engineering, Data Science, Industrial Mechatronics Engineering, and IT Governance, as well as in healthcare (Nutrition, Biomedicine, Physical Education), as well as Philosophy, Mathematics, Physics, Chemistry, and Literature. I currently work as a Product and Program Manager, leading multidisciplinary teams and digital transformation initiatives in public and private settings.
