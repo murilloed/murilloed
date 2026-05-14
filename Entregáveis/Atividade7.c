@@ -8,10 +8,10 @@ int main(void) {
 
     InitAudioDevice();
 
-    Sound tiro = LoadSound("tiro.wav");
-    Sound explosao = LoadSound("explosao.wav");
-    Sound moeda = LoadSound("moeda.wav");
-    Music musica = LoadMusicStream("fundo.mp3");
+    Sound tiro = LoadSound("assets/tiro.mp3");
+    Sound explosao = LoadSound("assets/explosao.mp3");
+    Sound moeda = LoadSound("assets/moeda.mp3");
+    Music musica = LoadMusicStream("assets/fundo.mp3");
 
     PlayMusicStream(musica);
 

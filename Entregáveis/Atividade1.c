@@ -10,7 +10,7 @@ int main() {
 
     DrawText("Welcome to My First Game", 10, 10, 40, BLUE);
 
-    DrawText("Press " ESC " to exit", 10, 60, 20, RED)
+    DrawText("Press ESC to exit", 10, 60, 20, RED);
 
         EndDrawing();
   }

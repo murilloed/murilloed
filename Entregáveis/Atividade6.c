@@ -6,9 +6,9 @@ int main(void) {
 
     InitWindow(screenWidth, screenHeight, "Exercicio 6");
     
-    Texture2D figuraLenta = LoadTexture("lenta.png");
-    Texture2D figuraRapida = LoadTexture("rapida.png");
-    Texture2D figuraDiagonal = LoadTexture("diagonal.png");
+    Texture2D figuraLenta = LoadTexture("assets/lenta.png");
+    Texture2D figuraRapida = LoadTexture("assets/rapida.png");
+    Texture2D figuraDiagonal = LoadTexture("assets/diagonal.png");
 
     float posX_Lenta = 0.0f;
     float posX_Rapida = 0.0f;
