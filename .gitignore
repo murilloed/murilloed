@@ -48,3 +48,6 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+.env
+.gitignore
+
