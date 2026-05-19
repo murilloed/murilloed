@@ -65,12 +65,6 @@ Engenheiro de Software • Pesquisador em IA • Product & Program Manager • P
     </a>
 
 
-<a href="https://www.linkedin.com/in/murilloo/" target="_blank">
-    <img 
-        alt="LinkedIn - Murillo Carvalho" 
-        title="Conecte-se comigo no LinkedIn" 
-        src="https://img.shields.io/badge/LinkedIn-Murillo%20Carvalho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582"
-    />
 </a>
     <a href="https://github.com/murilloed?tab=followers">
         <img 
