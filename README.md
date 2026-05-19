@@ -1,14 +1,45 @@
 # 👨🏻‍💻 Murillo Carvalho
 **`Software Engineer, Product, Project, and Process Manager, AI Researcher`**
 
-My name is Murillo Carvalho, I'm from Brasília, and I have over 25 years of experience in technology and management. I'm a Doctor in Communication and a Master in Computer Science at the University of Brasília (UnB) and specialize in A.I, Digital Project and Product Management, with additional training in Communications, Software Engineering, Data Science, Industrial Mechatronics Engineering, and IT Governance, as well as in healthcare (Nutrition, Biomedicine, Physical Education), as well as Philosophy, Mathematics, Physics, Chemistry, and Literature. I currently work as a Product and Program Manager, leading multidisciplinary teams and digital transformation initiatives in public and private settings.
+My name is Murillo Carvalho, and I am from Brasília, Brazil. I have over 25 years of experience in technology, software engineering, digital transformation, and management. I hold a Doctorate in Communication and a Master’s degree in Computer Science from the University of Brasília (UnB), with specialization in Artificial Intelligence, Digital Product and Project Management, Software Engineering, Data Science, Industrial Mechatronics Engineering, and IT Governance.
 
-I'm passionate about innovation, data, and artificial intelligence applied to user experience. I enjoy sharing knowledge about agile management, UX, and AI, and I believe that technology is a bridge between purpose and results. ""[Profile on Health and Philosophy](https://www.tiktok.com/omurillooo/)" where I talk about the area of ​​health, nutrition, biomedicine, physical education, etc. And "[Profile on Science and Technology]" where I talk about science, technology, AI, Physics and Astronomy.
+I also have multidisciplinary academic and research backgrounds in Communication, Philosophy, Mathematics, Physics, Chemistry, Literature, and Health Sciences, including Nutrition, Biomedicine, and Physical Education. This interdisciplinary perspective allows me to connect technology, science, innovation, and human-centered approaches in both academia and industry.
+
+Currently, I serve as a Full Professor of Computer Science and Software Engineering at IDP University in Brasília. I am also a researcher affiliated with research groups connected to Federal University of Pernambuco (UFPE) and University of Brasília (UnB), focusing on Artificial Intelligence, Software Engineering, Computational Systems, and Digital Innovation.
+
+In addition, I work as a public servant at the National Water and Basic Sanitation Agency (ANA), contributing to technology, innovation, and digital modernization initiatives within the Brazilian public sector.
+
+Throughout my career, I have worked as a Product and Program Manager, leading multidisciplinary teams and large-scale digital transformation initiatives in both public and private organizations. I am passionate about innovation, data, software architecture, and artificial intelligence applied to user experience and decision-making.
+
+I enjoy sharing knowledge about agile methodologies, UX, software engineering, AI, science, and technology. I believe technology is a bridge between purpose, knowledge, and real-world impact.
+
+I also create educational and scientific content on social media:
+
+Health and Philosophy Profile — focused on health sciences, philosophy, nutrition, biomedicine, and human development.
+Science and Technology Profile — focused on science, artificial intelligence, software engineering, physics, astronomy, and emerging technologies.
+
+Software Engineer • AI Researcher • Product & Program Manager • Professor • Public Sector Innovation Specialist
 
 **`Engenheiro de Software, Gerente de Produtos, projetos, processos, Pesquisador I.A `**
 
-Me chamo Murillo Carvalho, sou de Brasília e tenho mais de 25 anos de experiência em tecnologia e gestão. Sou Doutor em Comunicação e mestre em Ciência da Computação pela UnB e especialista em Gestão de Projetos e Produtos Digitais, com formações complementares em Comunicação, Engenharia de Software, Ciências de Dados, Engenharia Mecatrônica Industrial e Governança de TI e áreas da saúde (Nutrição, Biomedicina, Educação Física), além de (Filosofia, Matemática, Física, Química e Letras). Atualmente, atuo como Product e Program Manager, liderando equipes multidisciplinares e iniciativas de transformação digital em ambientes públicos e privados.
-Sou apaixonado por inovação, dados e inteligência artificial aplicada à experiência do usuário. Gosto de compartilhar conhecimento sobre gestão ágil, UX e IA e acredito que tecnologia é uma ponte entre propósito e resultado. ""[Perfil sobre Saúde e Filosofia](https://www.titok.com/omurillooo/)" onde falo sobre a área de saúde, nutrição, biomedicina, educação física, etc. E "[Perfil sobre Ciências e Tecnologia](https://www.tiktok.com/ti_it_/) " onde falo sobre ciências, tecnologia, I.A, Física e Astronomia.
+Meu nome é Murillo Carvalho, sou de Brasília, Brasil, e possuo mais de 25 anos de experiência em tecnologia, engenharia de software, transformação digital e gestão. Sou Doutor em Comunicação e Mestre em Ciência da Computação pela Universidade de Brasília (UnB), com especialização em Inteligência Artificial, Gestão de Produtos e Projetos Digitais, Engenharia de Software, Ciência de Dados, Engenharia Mecatrônica Industrial e Governança de TI.
+
+Também possuo formação e atuação multidisciplinar em áreas como Comunicação, Filosofia, Matemática, Física, Química, Letras e Ciências da Saúde, incluindo Nutrição, Biomedicina e Educação Física. Essa trajetória interdisciplinar me permite conectar tecnologia, ciência, inovação e abordagens centradas no ser humano tanto no meio acadêmico quanto no mercado.
+
+Atualmente, atuo como Professor Titular de Ciência da Computação e Engenharia de Software na Universidade IDP, em Brasília. Também sou pesquisador vinculado a grupos de pesquisa da Universidade Federal de Pernambuco (UFPE) e da Universidade de Brasília (UnB), desenvolvendo pesquisas nas áreas de Inteligência Artificial, Engenharia de Software, Sistemas Computacionais e Inovação Digital.
+
+Além disso, sou servidor público na Agência Nacional de Águas e Saneamento Básico (ANA), contribuindo em iniciativas de tecnologia, inovação e modernização digital no setor público brasileiro.
+
+Ao longo da minha carreira, atuei como Product e Program Manager, liderando equipes multidisciplinares e projetos estratégicos de transformação digital em organizações públicas e privadas. Tenho grande interesse por inovação, dados, arquitetura de software e inteligência artificial aplicada à experiência do usuário e à tomada de decisão.
+
+Gosto de compartilhar conhecimento sobre metodologias ágeis, UX, engenharia de software, IA, ciência e tecnologia. Acredito que a tecnologia é uma ponte entre propósito, conhecimento e impacto real na sociedade.
+
+Também produzo conteúdo educacional e científico nas redes sociais:
+
+Perfil sobre Saúde e Filosofia — com conteúdos sobre saúde, filosofia, nutrição, biomedicina e desenvolvimento humano.
+Perfil sobre Ciência e Tecnologia — com conteúdos sobre ciência, inteligência artificial, engenharia de software, física, astronomia e tecnologias emergentes.
+
+Engenheiro de Software • Pesquisador em IA • Product & Program Manager • Professor • Especialista em Inovação no Setor Público
 
 <p align="left">
     <a href="https://www.youtube.com/channel/UCZKD-rf76bIwPq3v_z3D3ew?sub_confirmation=1">
