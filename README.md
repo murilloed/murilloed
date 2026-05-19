@@ -33,21 +33,6 @@ Sou apaixonado por inovação, dados e inteligência artificial aplicada à expe
         />
     </a>
 
-  <a href="https://www.tiktok.com/@omurillooo" target="_blank">
-    <img 
-        alt="TikTok Murillo Carvalho"
-        title="Saúde e Bem Estar"
-        src="https://img.shields.io/badge/TikTok-@omurillooo-black?style=for-the-badge&logo=tiktok&logoColor=white"
-    />
-</a>
-
- <a href="https://www.tiktok.com/@ti_it_" target="_blank">
-    <img 
-        alt="TikTok Murillo Carvalho"
-        title="Saúde e Bem Estar"
-        src="https://img.shields.io/badge/TikTok-@ti_it_-black?style=for-the-badge&logo=tiktok&logoColor=white"
-    />
-</a>
 
 <a href="https://www.linkedin.com/in/murilloo/" target="_blank">
     <img 
