@@ -80,6 +80,10 @@ Engenheiro de Software • Pesquisador em IA • Product & Program Manager • P
 ### 🤖 Linguagens e Tecnologias
 
 <p>
+    <img alt="C++" title="C++" width="30px" style="margin-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+    <img alt="C#" title="C#" width="30px" style="margin-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
     <img alt="HTML" title="C" width="30px" style="margin-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
     <img alt="HTML" title="HTML" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
