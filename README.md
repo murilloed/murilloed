@@ -80,6 +80,12 @@ Engenheiro de Software • Pesquisador em IA • Product & Program Manager • P
 ### 🤖 Linguagens e Tecnologias
 
 <p>
+    <img alt="Go" title="Go" width="30px" style="margin-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
+    <img alt="Rust" title="Rust" width="30px" style="margin-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
+    <img alt="Haskell" title="Haskell" width="30px" style="margin-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg"/>
     <img alt="C++" title="C++" width="30px" style="margin-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
     <img alt="C#" title="C#" width="30px" style="margin-right:10px;"
