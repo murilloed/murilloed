@@ -2,46 +2,19 @@
 
 int main()
 {
-    float posX = -100; // posição inicial (fora da tela)
-
-    Texture2D sprite;
-
-    Sound sound; // variável de som
-
-    InitWindow(800, 450, "basic window");
-
-    InitAudioDevice(); // inicia o sistema de áudio
-
-    sprite = LoadTexture("inimigo.png");
-
-    sound = LoadSound("tiro.mp3"); // carrega o som
+    InitWindow(800, 600, "Meu Primeiro Jogo");
 
     while (!WindowShouldClose())
     {
-        posX += GetFrameTime() * 300;
-
-        // quando sair da tela, toca som
-        if (posX > 800)
-        {
-            posX = -100;
-        }
-        if (IsKeyPressed(KEY_SPACE))
-        {
-            PlaySound(sound);
-        }
-
         BeginDrawing();
 
         ClearBackground(RAYWHITE);
 
-        DrawTexture(sprite, posX, 10, WHITE);
+        DrawText("Bem-vindo ao Raylib", 190, 250, 40, BLUE);
+        DrawText("Pressione ESC para sair", 170, 300 , 40, PINK);
 
         EndDrawing();
     }
-
-    UnloadSound(sound);
-
-    CloseAudioDevice();
 
     CloseWindow();
 
