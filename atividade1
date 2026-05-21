@@ -2,7 +2,7 @@
 
 int main()
 {
-    InitWindow(800, 600, "Meu Primeiro Jogo");
+    InitWindow(800, 450, "Casinha");
 
     while (!WindowShouldClose())
     {
@@ -10,8 +10,15 @@ int main()
 
         ClearBackground(RAYWHITE);
 
-        DrawText("Bem-vindo ao Raylib", 190, 250, 40, BLUE);
-        DrawText("Pressione ESC para sair", 170, 300 , 40, PINK);
+        DrawRectangle(300, 200, 200, 150, PINK);
+        DrawTriangle(
+            (Vector2){280, 200},
+            (Vector2){520, 200},
+            (Vector2){400, 100},
+            DARKPURPLE );
+        DrawRectangle(370, 270, 60, 80, DARKPURPLE);
+        DrawRectangle(320, 230, 40, 40, SKYBLUE);
+        DrawRectangle(440, 230, 40, 40, SKYBLUE);
 
         EndDrawing();
     }
