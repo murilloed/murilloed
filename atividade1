@@ -1,0 +1,22 @@
+#include "raylib.h"
+
+int main()
+{
+    InitWindow(800, 600, "Meu Primeiro Jogo");
+
+    while (!WindowShouldClose())
+    {
+        BeginDrawing();
+
+        ClearBackground(RAYWHITE);
+
+        DrawText("Bem-vindo ao Raylib", 190, 250, 40, BLUE);
+        DrawText("Pressione ESC para sair", 170, 300 , 40, PINK);
+
+        EndDrawing();
+    }
+
+    CloseWindow();
+
+    return 0;
+}
