@@ -1,38 +1,5 @@
-#include "raylib.h"
-
-int main()
-{
-    int azulX = 0;
-    int vermelhoX = 700;
-
-    InitWindow(800, 450, "Dois Quadrados");
-
-    while (!WindowShouldClose())
-    {
-        azulX += 1;
-        vermelhoX --;
-
-        if (azulX > 800)
-        {
-            azulX = 0;
-        }
-
-        if (vermelhoX < -100)
-        {
-            vermelhoX = 800;
-        }
-
-        BeginDrawing();
-
-        ClearBackground(RAYWHITE);
-
-        DrawRectangle(azulX, 100, 100, 100, BLUE);
-        DrawRectangle(vermelhoX, 250, 100, 100, RED);
-
-        EndDrawing();
-    }
-
-    CloseWindow();
-
-    return 0;
-}
+Perguntas:
+Qual ficou mais suave? 60 FPS 
+Qual ficou mais lento? 10 FPS
+O movimento mudou? Sim, o movimento mudou devido a dependência direta entre posX++ e os frames 
+O que acontece sem SetTargetFPS()? O jogo roda sem limite de velocidade, acelerando demais em computadores potentes
