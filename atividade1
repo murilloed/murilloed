@@ -2,23 +2,24 @@
 
 int main()
 {
-    int posX = 0;
+    Texture2D sprite;  
+    Texture2D sprite2;
 
     InitWindow(800, 450, "basic window");
+   
 
-    SetTargetFPS(120);  // Diz ao Raylib quantas vezes por segundo o loop do jogo deve rodar
+    sprite = LoadTexture("feliz.png"); 
+    sprite2 = LoadTexture("inimigo.png");   
 
+    
     while (!WindowShouldClose())
     {
-        posX++;
-
         BeginDrawing();
 
         ClearBackground(RAYWHITE);
 
-        DrawRectangle(posX, 100, 100, 100, BLUE);
-        DrawFPS(10, 10);
-
+        DrawTexture(sprite, 25, 50, WHITE);
+        DrawTexture(sprite2, 50, 25, WHITE);
 
         EndDrawing();
     }
