@@ -2,23 +2,23 @@
 
 int main()
 {
-    InitWindow(800, 450, "Casinha");
+    int posX = 0;  // Onde o quadrado está no eixo horizontal
+
+    InitWindow(800, 450, "basic window");
 
     while (!WindowShouldClose())
     {
+        posX++;
+        if (posX > 800)
+    {
+    posX = 0;
+    }
+
         BeginDrawing();
 
         ClearBackground(RAYWHITE);
 
-        DrawRectangle(300, 200, 200, 150, PINK);
-        DrawTriangle(
-            (Vector2){280, 200},
-            (Vector2){520, 200},
-            (Vector2){400, 100},
-            DARKPURPLE );
-        DrawRectangle(370, 270, 60, 80, DARKPURPLE);
-        DrawRectangle(320, 230, 40, 40, SKYBLUE);
-        DrawRectangle(440, 230, 40, 40, SKYBLUE);
+        DrawRectangle(posX, 100, 100, 100, BLUE);
 
         EndDrawing();
     }
