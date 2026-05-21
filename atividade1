@@ -2,24 +2,31 @@
 
 int main()
 {
-    Texture2D sprite;  
+    float posX = -100; 
+
+    Texture2D sprite;
     Texture2D sprite2;
 
     InitWindow(800, 450, "basic window");
-   
 
-    sprite = LoadTexture("feliz.png"); 
-    sprite2 = LoadTexture("inimigo.png");   
+    sprite = LoadTexture("inimigo.png");
+    sprite2 = LoadTexture("feliz.png");
 
-    
     while (!WindowShouldClose())
     {
+        posX += GetFrameTime() * 500;
+
+        if (posX > 800)
+        {
+            posX = -500;
+        }
+
         BeginDrawing();
 
         ClearBackground(RAYWHITE);
 
-        DrawTexture(sprite, 25, 50, WHITE);
-        DrawTexture(sprite2, 50, 25, WHITE);
+        DrawTexture(sprite, posX, 20, WHITE);
+        DrawTexture(sprite2, posX, 50, WHITE);
 
         EndDrawing();
     }
